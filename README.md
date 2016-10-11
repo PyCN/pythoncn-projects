@@ -10,7 +10,7 @@
 
 1、一个Python Restful API资源导航站点
 
-- 团队成员：@sinoandywong
+ - 团队成员：@sinoandywong
  - 关键词：Flask、MySQL、restful API
  - 已经实现：API Key、API 爬虫模块
  - 计划完成时间：2017.1.1
