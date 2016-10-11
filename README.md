@@ -4,7 +4,7 @@
 
 请按照以下示例格式，方便了解项目及自由组建团队：
 
-编号001、一个Python Restful API资源导航站点
+001、一个Python Restful API资源导航站点
 
  - 团队成员：@sinoandywong
  - 关键词：Flask、MySQL、restful API
@@ -17,11 +17,12 @@
      
 **Python中文社区Git项目组QQ群：477542380**
 
+**项目组论坛地址：http://python-cn.com/node/git**
+
 **微信公众号：Python中文社区**
 
 ![image](https://github.com/Chinese-Python/pythoncn-projects/blob/master/images/Python%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
-**项目组论坛地址：http://python-cn.com/node/git**
 
 
 **本项目基于MIT开源协议**
