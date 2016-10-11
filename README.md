@@ -1,8 +1,5 @@
 #Python中文社区Git项目汇总
 
-**Python中文社区Git项目组QQ群：477542380**
-**项目组论坛地址：http://python-cn.com/node/git**
-
 大家可以提交初步想法和不同的项目方案并定期更新进度
 
 请按照以下示例格式，方便了解项目及自由组建团队：
@@ -17,6 +14,14 @@
  - Todo：
      1、注册页面
      2、丰富更多的爬虫类别
+     
+**Python中文社区Git项目组QQ群：477542380**
+![image](https://github.com/Chinese-Python/pythoncn-projects/blob/master/images/Python%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BAGit%E9%A1%B9%E7%9B%AE%E7%BB%84QQ%E7%BE%A4.jpg)
+
+
+**微信公众号：Python中文社区**
+
+**项目组论坛地址：http://python-cn.com/node/git**
 
 
 **本项目基于MIT开源协议**
