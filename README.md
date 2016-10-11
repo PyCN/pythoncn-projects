@@ -4,7 +4,7 @@
 
 请按照以下示例格式，方便了解项目及自由组建团队：
 
-1、一个Python Restful API资源导航站点
+编号001、一个Python Restful API资源导航站点
 
  - 团队成员：@sinoandywong
  - 关键词：Flask、MySQL、restful API
