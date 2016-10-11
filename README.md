@@ -4,13 +4,14 @@
 
 请按照以下示例格式，方便了解项目及自由组建团队：
 
-001、一个Python Restful API资源导航站点
+1、一个Python Restful API资源导航站点
 
  - 团队成员：@sinoandywong
  - 关键词：Flask、MySQL、restful API
  - 已经实现：API Key、API 爬虫模块
  - 计划完成时间：2017.1.1
  - 版本：v1.10
+ - 项目编号：20161011001
  - Todo：
      1、注册页面
      2、丰富更多的爬虫类别
