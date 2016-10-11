@@ -1,4 +1,8 @@
 # pythoncn-projects
-Python中文社区Git项目汇总，项目组QQ群：477542380
+Python中文社区Git项目汇总
 
-大家可以提交项目方案组建团队，比如用flask、mongodb建一个Python资源导航站点
+Python中文社区Git项目组QQ群：477542380
+项目组论坛地址：http://python-cn.com/node/git
+
+大家可以提交一个个不同的项目方案并自由组建团队
+比如用django、mysql建一个Python资源导航站点
