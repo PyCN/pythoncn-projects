@@ -16,6 +16,7 @@
      2、丰富更多的爬虫类别
      
 **Python中文社区Git项目组QQ群：477542380**
+
 ![image](https://github.com/Chinese-Python/pythoncn-projects/blob/master/images/Python%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BAGit%E9%A1%B9%E7%9B%AE%E7%BB%84QQ%E7%BE%A4.jpg)
 
 
