@@ -7,13 +7,15 @@
 大家可以提交初步想法和不同的项目方案并定期更新进度
 
 请按照以下格式：
+
 1、一个Python Restful API资源导航站点
- -团队成员：@sinoandywong
- -关键词：Flask、MySQL、restful API
- -已经实现：API Key、API 爬虫模块
- -计划完成时间：2017.1.1
- -版本：v1.10
- -Todo：
+
+- 团队成员：@sinoandywong
+ - 关键词：Flask、MySQL、restful API
+ - 已经实现：API Key、API 爬虫模块
+ - 计划完成时间：2017.1.1
+ - 版本：v1.10
+ - Todo：
      1、注册页面
      2、丰富更多的爬虫类别
 
