@@ -18,7 +18,7 @@
      
 **Python中文社区Git项目组QQ群：477542380**
 
-**项目组论坛地址：http://python-cn.com/node/git**
+**项目组Gitter：https://gitter.im/PyCN/PyCN**
 
 **微信公众号：Python中文社区**
 
