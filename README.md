@@ -16,11 +16,11 @@
      1、注册页面
      2、丰富更多的爬虫类别
      
-**Python中文社区Git项目组QQ群：477542380**
+**微信公众号：Python中文社区**
+
+**Python中文社区Git项目组QQ群：596796724**
 
 **项目组Gitter：https://gitter.im/PyCN/PyCN**
-
-**微信公众号：Python中文社区**
 
 ![image](https://github.com/Chinese-Python/pythoncn-projects/blob/master/images/Python%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
