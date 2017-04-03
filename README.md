@@ -1,6 +1,7 @@
 **微信公众号：Python中文社区**
 
-**内部Gitter：https://gitter.im/PyCN**
+####Gitter
+[![Join the chat at https://gitter.im/PyCN](https://badges.gitter.im/PyCN.svg)](https://gitter.im/PyCN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **申请加入PyCN：http://t.cn/Rir91Y4**
 
