@@ -5,7 +5,7 @@
 或者将下面地址复制到Telegram搜索：
 https://t.me/joinchat/GgvYwRHaQpE-seqVV6Vsew
 
-**申请加入PyCN：http://t.cn/Rir91Y4**
+**点击[这里](http://t.cn/Rir91Y4)申请加入Python中文社区GitHub组织**
 
 **不定期进行邀请，请随时关注邮箱，谢谢！**
 
