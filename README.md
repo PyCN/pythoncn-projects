@@ -1,11 +1,8 @@
 **微信公众号：Python中文社区**[![Join the chat at https://gitter.im/PyCN](https://badges.gitter.im/PyCN.svg)](https://gitter.im/PyCN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-点击[这里](https://t.me/PyChina)加入Python中文社区Telegram群组
+**点击[这里](https://t.me/joinchat/RDRY9IakgWRXpWx7)** 或者链接：https://t.me/joinchat/RDRY9IakgWRXpWx7 加入Python中文社区Telegram群组
 
-或者将下面地址复制到Telegram搜索：
-t.me/PyChina
-
-**点击[这里](http://python-china.mikecrm.com/oblP86v)申请加入Python中文社区GitHub组织**
+**点击[这里](http://python-china.mikecrm.com/oblP86v)** 申请加入Python中文社区GitHub组织
 
 **不定期进行邀请，请随时关注邮箱，谢谢！**
 
